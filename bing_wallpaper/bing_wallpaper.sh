@@ -15,7 +15,7 @@ mkt="en-US"
 
 # The idx parameter determines where to start from. 0 is the current day,
 # 1 the previous day, etc.
-idx="4"
+idx="0"
 
 # $xmlURL is needed to get the xml data from which
 # the relative URL for the Bing pic of the day is extracted
